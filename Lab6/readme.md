@@ -1,1 +1,1 @@
-Just implemented the classes and extentions.
+Just implemented the classes and inheretences.
