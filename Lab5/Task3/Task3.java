@@ -1,4 +1,4 @@
-public class Task2 {
+public class Task3 {
      public static void main(String[]  args) {
 
           J jObj =  new J();
