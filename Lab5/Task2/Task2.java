@@ -7,7 +7,7 @@ public class Task2 {
           System.out.println("J string:");
           System.out.println(jObj.j);
           System.out.println("x string private var:");
-          System.out.println(jObj.getX(strX));
+          System.out.println(jObj.strX.x);
 
 
      }
